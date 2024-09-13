@@ -8,17 +8,6 @@ This website has a cool front page where you can see many destinations and get d
 There is also a gallery section where you can see the beautiful pictures of all the destinations.
 This website also has an admin login. The admin can get the information of customers and travel agents and can also add new places and hotels.
 There is a cool and nice booking page where you can book your tour by entering your details.
-This website also has a feedback section where you can give your feedback to the developer.
-
-# New Changes
-
-improved performance
-login signup issues fixed
-styling issues fixed
-
-# Use Procedure
-
-please change the port number with your port number - I used 3307 as a port number but in your case, it may be 3306 please change that
 
 please change your username and password if that applicable to you
 
@@ -27,8 +16,8 @@ if you want a different name for the database then make sure that you change the
 
 database file also provided
 
-Thank You....
-How to run the Tourism Management System (TMS) Project
+
+How to run the Hotel and Tourism Travel Agency Management-System (HTTAMS) Project
 
 1. Download the zip file
 
@@ -49,8 +38,13 @@ Credential for admin panel :
 Username: admin
 Password: 1234
 
-This project is free to use both personal and commercial
+Thank You....
 
-For commercial use, we recommend to first contact us to give support, improve security and add more useful functionalities
+Index Number-ITBNM-2211-0138
+Name-T.T.Jayasekara
+Faculty-IT
 
-All our services are free don't fear to contact us on code4berryteam@gmail.com
+
+
+
+
